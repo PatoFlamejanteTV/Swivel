@@ -27,7 +27,7 @@ import com.huey.utils.Thread;
 @:autoBuild(com.huey.core.ApplicationMacros.buildApplication())
 class Application extends Binding.Bindable
 {
-	private var _thread : Thread;
+	private var _thread : Thread = null;
 
 	public var ui(default, null) : StateContainer;
 	
