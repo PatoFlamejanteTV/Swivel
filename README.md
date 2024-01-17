@@ -24,8 +24,8 @@ I'm trying to get everything working again!
 Swivel is licensed under the GNU GPLv3.
 See [LICENSE.md](LICENSE.md) for the full license.
 
-Swivel runs using the [Adobe AIR](https://get.adobe.com/air/) runtime. AIR is 
-owned by Adobe Systems, Inc.
+Swivel runs using the [~~Adobe~~ Harman AIR](https://get.adobe.com/air/) runtime. AIR is 
+owned by ~~Adobe Systems, Inc~~ *Harman International Industries*.
 
 Swivel uses software from the [FFmpeg](https://www.ffmpeg.org) project along 
 with supporting libraries, licensed under their corresponding licenses. These 
