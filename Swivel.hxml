@@ -2,7 +2,7 @@ com.newgrounds.swivel.Swivel
 -cp src
 -cp huey/src
 -cp huey/test
--cp lib/format
+-lib format
 -lib air3
 -main com.newgrounds.swivel.Swivel
 -swf bin/Swivel.swf

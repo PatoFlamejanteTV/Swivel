@@ -11,6 +11,9 @@ The latest stable release of Swivel can be found at <https://www.newgrounds.com/
 ## Building from source
 
 Swivel is built using the [Haxe](http://www.haxe.org) programming language.
+
+[`hmm install`](https://github.com/andywhite37/hmm#installing-hmm) to install the haxelibs
+
 Run `haxe Swivel.hxml` to build, then run `PackageApp.bat` to package the app.
 
 The current source will have regressions from the binary release on Newgrounds;

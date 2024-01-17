@@ -14,3 +14,4 @@ Swivel.exe
 *.suo
 *.vcxproj.user
 Thumbs.db
+.haxelib

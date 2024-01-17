@@ -1,0 +1,18 @@
+{
+  "dependencies": [
+    {
+      "name": "air3",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/ninjamuffin99/air3"
+    },
+    {
+      "name": "format",
+      "type": "git",
+      "dir": null,
+      "ref": "332250b75ff4431d0afbb3d63e74cc2408b52da6",
+      "url": "https://github.com/Herschel/format"
+    }
+  ]
+}
