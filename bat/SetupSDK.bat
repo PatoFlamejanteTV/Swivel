@@ -1,7 +1,7 @@
 :user_configuration
 
 :: Default path to AIR SDK if installed using HaxeDevelop.
-if not defined AIR_SDK (set AIR_SDK=%HOMEDRIVE%%HOMEPATH%\AppData\Local\HaxeDevelop\Apps\ascsdk\27.0.0)
+if not defined AIR_SDK (set AIR_SDK=C:\AIR\AIRSDK_51.2.2)
 
 :validation
 if not exist "%AIR_SDK%\bin" goto flexsdk
