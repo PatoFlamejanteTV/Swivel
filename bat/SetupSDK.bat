@@ -12,7 +12,7 @@
 for /f "delims=" %%A in ('where adt 2^>nul') do set ADT_FULL=%%A
 if defined ADT_FULL (
 	rem ADT_FULL is the full path to adt.exe (e.g. C:\...\bin\adt.exe)
-	set SDK_BIN=%%~dpA
+	for %%I in ("%ADT_FULL%") do set SDK_BIN=%%~dpI
 )
 
 :: (3) Try a common Downloads location if nothing found yet
