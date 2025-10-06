@@ -38,7 +38,7 @@ echo ERROR:
 echo   Application ID in 'bat\SetupApplication.bat' (APP_ID)
 echo   does NOT match Application descriptor '%APP_XML%' (id)
 echo.
-if %PAUSE_ERRORS%==1 pause
+if "%PAUSE_ERRORS%"=="1" pause
 exit
 
 :end
